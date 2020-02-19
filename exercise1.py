@@ -1,0 +1,8 @@
+number1 = float(input("Please enter number: "))
+number2 = float(input("Please enter another number: "))
+str1 = str(input("Please enter some words: "))
+str2 = str(input("Please enter another words: "))
+print("You first number: ", number1)
+print("You second number: ", number2)
+print("You first number: ", str1)
+print("You second number: ", str2)
